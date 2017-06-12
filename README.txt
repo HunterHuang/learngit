@@ -1,2 +1,2 @@
 # learngit
-I am trunk
+Creating a new branch is quick
