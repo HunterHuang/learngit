@@ -3,10 +3,7 @@ class Main{
 
 
 	private int cus;
-	private int cust_numb2r;
-
-
-	private int numbe3r;
+	private int number;
  	
 
 	public void triggerMe() {
@@ -29,8 +26,8 @@ class Main{
 		System.out.println("Shit by22 master!")
 	}
 
-	public void CHANGEFORBASE2() {
-		System.out.println("Rebase de111v !")
+	public void addByDev2() {
+		System.out.println("Add de111v !")
 		System.out.println("Shit !")
 
 	}
