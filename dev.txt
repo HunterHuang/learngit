@@ -1,5 +1,4 @@
 
-
 Add by master
 
 i am hunter2
@@ -9,7 +8,12 @@ i am fine
 Iam not finde master
 what the fuck!
 
+i am hunter!!!!!
+how r you_Dev
+i am fine_dev
 
+
+<<<<<<< HEAD
 You k123123now what !
 What i1223s up!
 
