@@ -20,6 +20,12 @@ class Main{
 
 		System.out.println(str);
 
+		System.out.println("Yeah")
+
+	}
+
+	public void addByMaster() {
+		System.out.println("Add by Master!")
 	}
 
 
