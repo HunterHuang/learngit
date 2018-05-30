@@ -8,15 +8,11 @@ class Main{
 
 		String str = "First Me";
 
-		str.append("Second Me");
-
 		return;
 	}
 
 
 	public void scan() {
-
-		String str = "Please scan me !";
 
 		System.out.println(str);
 
@@ -26,6 +22,13 @@ class Main{
 
 	public void addByMaster() {
 		System.out.println("Add by Master!")
+	}
+
+
+	public void addByDev() {
+
+		System.out.println("Add dev !")
+
 	}
 
 
