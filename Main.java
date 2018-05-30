@@ -25,10 +25,8 @@ class Main{
 		System.out.println("Shit by master!")
 	}
 
-
-	public void addByDev() {
-		System.out.println("Add second time !")
-		System.out.println("Add dev !")
+	public void addByDev2() {
+		System.out.println("Add de111v !")
 		System.out.println("Shit !")
 
 	}
