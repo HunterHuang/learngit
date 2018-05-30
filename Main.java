@@ -1,8 +1,10 @@
 
 class Main{
 
+
+	private int cus;
 	private int number;
- 
+ 	
 
 	public void triggerMe() {
 
@@ -17,12 +19,11 @@ class Main{
 		System.out.println(str);
 
 		System.out.println("Yeah")
-
 	}
 
-	public void addByMaster() {
-		System.out.println("Add by Master!")
-		System.out.println("Shit by master!")
+	public void addByMaster22() {
+		System.out.println("Add b222y Master!")
+		System.out.println("Shit by22 master!")
 	}
 
 	public void addByDev2() {
