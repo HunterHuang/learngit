@@ -22,6 +22,7 @@ class Main{
 
 	public void addByMaster() {
 		System.out.println("Add by Master!")
+		System.out.println("Shit by master!")
 	}
 
 
