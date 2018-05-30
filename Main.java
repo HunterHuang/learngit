@@ -29,6 +29,7 @@ class Main{
 	public void addByDev() {
 		System.out.println("Add second time !")
 		System.out.println("Add dev !")
+		System.out.println("Shit !")
 
 	}
 
